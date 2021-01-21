@@ -1,0 +1,21 @@
+.header{
+    background:cadetblue;
+    display: flex;
+    justify-content: flex-end;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
